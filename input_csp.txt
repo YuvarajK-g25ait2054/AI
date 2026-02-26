@@ -1,0 +1,5 @@
+Bots: A, B, C
+Slots: Slot1, Slot2, Slot3, Slot4
+Unary_Constraint: Slot4 != C
+Binary_Constraint: No_Back_to_Back (Adjacent slots cannot have same bot)
+Coverage_Constraint: All bots must be used at least once
