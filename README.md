@@ -1,2 +1,2 @@
 # AI
-AI Assignment
+AI_CSL7610_Assignment
